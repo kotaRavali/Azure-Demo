@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Azure-Ravali'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72784500C5234F0392A8EA026C88CD5E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C4004BDF96F4A97B65EA4B50E438310 }}
           package: '*.jar'
